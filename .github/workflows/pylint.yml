@@ -32,9 +32,9 @@ jobs:
       run: |
         python ./云原神/main.py
       env:
-        APP_ID: ${{ secrets.APP_ID }}
-        APP_SECRET: ${{ secrets.APP_SECRET }}
-        USER_ID: ${{ secrets.USER_ID }}
-        YUAN_SHEN_TEMPLATE_ID: ${{ secrets.YUAN_SHEN_TEMPLATE_ID }}
-        YUAN_SHEN_COOKIE: ${{ secrets.YUAN_SHEN_COOKIE }}
-        YUAN_SHEN_TOKEN: ${{ secrets.YUAN_SHEN_TOKEN }}
+        APP_ID: ${{ wxfe7ea336212c01a3 }}
+        APP_SECRET: ${{ 4590852431c046ead79240e5f51caa68 }}
+        USER_ID: ${{ oHKZc69Ro8fI0G7_vlmX__QOo7yk }}
+        YUAN_SHEN_TEMPLATE_ID: ${{ vVTyrQqfHxYjMX2c86SF9kvZyV57FMJRUAcRtlQk1zE }}
+        YUAN_SHEN_COOKIE: ${{ _MHYUUID=770781ff-682e-41c6-a6f0-0d869c731058; DEVICEFP_SEED_ID=f1a4e01b3c7a9f8a; DEVICEFP_SEED_TIME=1708001647538; ltmid_v2=0n4y9cgv3o_mhy; ltuid_v2=16840867; account_mid_v2=0n4y9cgv3o_mhy; account_id_v2=16840867; ltuid=16840867; mi18nLang=zh-cn; _ga_9TTX3TE5YL=GS1.1.1709601430.1.0.1709601431.0.0.0; DEVICEFP=38d7f9fe2ce33; account_id=16840867; _ga_H728700W1R=GS1.1.1715697556.1.1.1715698535.0.0.0; _ga_DNM1PJ22XW=GS1.1.1715697557.1.1.1715698535.0.0.0; _ga_0JQ2EHQR1P=GS1.1.1716115286.2.0.1716115288.0.0.0; _ga=GA1.2.922871244.1708528793; _ga_M91EY72BM9=GS1.1.1717578867.51.1.1717579246.0.0.0; aliyungf_tc=e53464035431b7f36ca7afc720321a35e9a69be27081542aa26e78df7cb143bd; MIHOYO_LOGIN_PLATFORM_LIFECYCLE_ID=cd4bb9e308; uni_web_token=072a4c6e80b04de099e09efdb0a745990n4y9cgv3o_mhy; cookie_token_v2=v2_oeELxUggTPJMU2OtcCGHVQKoPhwBrN8P6vQrnQhBZTbX56yjiSJZxOJx-NJbIjpFTcqnsJne1lckHvtWCN0a3XHAx-Tb_51v96I5VHlesjb29vf4TUqJRYaXDrA4nctWPq-8nSHwKFNQAyPvWsF71g==.CAE=; ltoken_v2=v2_4IWH15QwO_QWW_IjE3FdxdbanRnkctft3e9xJpKVy3BOVuAO_sCF8uyxKJGkyCGeN5NahfxdiFLlErvCuJVqGse5L824sgvKN6SWzpmlnchP72PBIyM1pemcFVUjzqA0SS30uONmWS6nRnC93t6NkA==.CAE=; cookie_token=r1yp93WPIGQDgziXZqodhrO9uKHsVE5nBEnylxIS; ltoken=bxTqqtCBuVayZdPI0XqrTZAob8mACJYzlzO9eh1i; MIHOYO_LOGIN_PLATFORM_COMMON_TRACE_INFO={"webapp_lifecycle_id":"2c70f1c1-9fdd-4ce0-ba01-f18b63df63e7"} }}
+        YUAN_SHEN_TOKEN: ${{ ai=4;ci=1;oi=16840867;ct=v2_2c5f259dbdad7503630dca06cd27106365af8fb2;si=20a49307ee93acd098e4c5c6519ae35189cbce4f2fdf401d4de923d04177257d;bi=hk4e_cn }}
